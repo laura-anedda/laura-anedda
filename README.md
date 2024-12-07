@@ -19,7 +19,7 @@ My goal is to deepen my expertise in finance and data science, while building a 
 **📂 What You’ll Find Here**
 Explore my repositories for projects in:
 - Quantitative Finance
-- Mschine Learning Applications
+- Machine Learning Applications
 - Financial data analysis techniques
 Feel free to explore my repositories and projects!
 
